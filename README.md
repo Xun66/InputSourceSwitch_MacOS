@@ -31,5 +31,6 @@ Options:
 
 ### Notes
 * Release built with XCode 11.3
-* ~~写啥Makefile, 要啥自行车啊, 反正是也不懂oc，自己能用就行了~~
+* Append `InputSourceSwitchCLI -c com.apple.keylayout.ABC` to your `.bashrc` or `.zshrc` so you can switch to English input source when opening a terminal window
+* ~~写啥Makefile, 要啥自行车啊, 反正是也不懂oc, 自己能用就行了~~
 * ~~早知道GitHub有类似的项目谁写这个啊:(~~
